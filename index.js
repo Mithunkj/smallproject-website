@@ -365,7 +365,7 @@
 
 // btnEl.addEventListener("click",addNote);
 
-const btnEl = document.getElementById("btn");
+const btnEl = document.getElementById("btnNote");
 const appEl = document.getElementById("app");
 
 getNotes().forEach((note) => {
